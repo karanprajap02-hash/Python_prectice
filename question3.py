@@ -5,4 +5,5 @@ for i in range(0,3):
     lists.append(num)
 print(max(lists))
 
-    
+# numbers = list(map(int, input("Enter as many numbers as you want: ").split()))
+# scores = [int(x) for x in input("Enter student scores separated by spaces: ").split()]
